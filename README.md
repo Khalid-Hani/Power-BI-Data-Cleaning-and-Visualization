@@ -51,9 +51,16 @@ After completing the data cleaning process, we proceeded to build our visualizat
 
 ## Visualization Dashboard
 
-![Dashboard Image](url_to_image)
+![Dashboard Image](bi-)
 
-(Note: Replace "url_to_image" with the URL of the image showcasing your Power BI dashboard)
+
+## Dataset Information
+
+For more details about the dataset, refer to the [dataset ](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx).
+
+
+## Acknowledgments
+This project was completed by following the instructions and guidance provided in the YouTube channel by [AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst). Thank you for the insightful tutorials and practical data analysis techniques.
 
 ## Conclusion
 
@@ -64,4 +71,6 @@ Feel free to explore the code and visualizations in this repository. If you have
 Thank you for your interest!
 
 Best regards,
-[Your Name] (or your preferred contact information)
+
+## Contact
+If you have any questions or suggestions regarding this project, feel free to contact me at [khalidhani1996@gmail.com](mailto:khalidhani1996@gmail.com).
