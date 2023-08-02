@@ -55,8 +55,7 @@ After completing the data cleaning process, we proceeded to build our visualizat
    - Various metrics, such as happiness with salary, work-life balance, and a gender comparison of salaries, are presented in an easy-to-understand format.
 
 ## Visualization Dashboard
-
-I have the capability to access the entire interactive dashboard from the file named ["My Dash board for data analysis survay.pbix"](https://github.com/Khalid-Hani/Power-BI-Data-Cleaning-and-Visualization/blob/main/My%20Dash%20board%20for%20data%20analysis%20survay.pbix)
+You can access the full interactive dashboard from the file named ["My Dash board for data analysis survay.pbix"](https://github.com/Khalid-Hani/Power-BI-Data-Cleaning-and-Visualization/blob/main/My%20Dash%20board%20for%20data%20analysis%20survay.pbix)
 
 ![Dashboard Image](bi-visualization-1.jpg)
 
