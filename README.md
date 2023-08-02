@@ -72,7 +72,8 @@ This project was completed by following the instructions and guidance provided i
 
 This project demonstrates how we prepared the dataset through extensive cleaning before creating insightful visualizations using Power BI. The resulting dashboard provides valuable insights into the dataset and facilitates better understanding and decision-making.
 
-Feel free to explore the code and visualizations in this repository. If you have any questions or suggestions, please don't hesitate to reach out.
+Feel free to explore the project and visualizations in this repository. 
+If you have any questions or suggestions, please don't hesitate to reach out.
 
 Thank you for your interest!
 
