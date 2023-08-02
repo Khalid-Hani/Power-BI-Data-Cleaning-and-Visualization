@@ -1,10 +1,9 @@
 # Power BI Data Cleaning and Visualization
-![Project Tools](ex-vs-bi-s.jpg)
+![Project Tools](ex-vs-bi-s.webp)
 
 
 
-## Image ref.
-[Excel & Power BI](https://medium.com/powerbiegitimleri-com/kurumsal-raporlamada-excelden-power-bi-a-ge%C3%A7mek-i%CC%87%C3%A7in-8-sebep-76788e7696c8)
+###### Image ref. [Excel & Power BI](https://medium.com/powerbiegitimleri-com/kurumsal-raporlamada-excelden-power-bi-a-ge%C3%A7mek-i%CC%87%C3%A7in-8-sebep-76788e7696c8)
 ## Introduction 
 
 This GitHub repository contains a project focused on creating insightful visualizations using Power BI. The dataset used in this project required extensive cleaning before delving into visualization creation. Below are the steps taken to clean the dataset:
