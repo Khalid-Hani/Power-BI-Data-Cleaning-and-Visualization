@@ -1,6 +1,6 @@
 # Power BI Data Cleaning and Visualization
 
-## Introduction
+## Introduction 
 
 This GitHub repository contains a project focused on creating insightful visualizations using Power BI. The dataset used in this project required extensive cleaning before delving into visualization creation. Below are the steps taken to clean the dataset:
 
