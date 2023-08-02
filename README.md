@@ -1,6 +1,10 @@
 # Power BI Data Cleaning and Visualization
-![Project Tools : iamge ref --> www.digitaljournal.com ](ex-vs-bi.jpg){:width="50%"}{: .caption}
-This is a small note under the image.
+![Project Tools](ex-vs-bi.jpg)
+![Image](ex-vs-bi.jpg){: .scale-100}
+
+
+
+
 ## Introduction 
 
 This GitHub repository contains a project focused on creating insightful visualizations using Power BI. The dataset used in this project required extensive cleaning before delving into visualization creation. Below are the steps taken to clean the dataset:
