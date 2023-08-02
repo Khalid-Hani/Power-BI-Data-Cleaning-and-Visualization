@@ -1,6 +1,6 @@
 # Power BI Data Cleaning and Visualization
 ![Project Tools](ex-vs-bi.jpg)
-![Image](ex-vs-bi.jpg){: .scale-100}
+
 
 
 
